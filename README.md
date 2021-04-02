@@ -1,2 +1,2 @@
 # matrix-multiplication
-基于OpenMP的矩阵相乘并行计算
+基于OpenMP的矩阵相乘并行计算并研究其运行时间和工作效率
